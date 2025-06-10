@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikeShort11
 - 👀 I’m interested in cybersecurity, video games, open source
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on crypography, game development, open source tools
+- 💞️ I’m looking to collaborate on crypography, game development, open source tools, and web development
 - 📫 How to reach me: michael.short094@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im a big Hockey fan (Go Utah Hockey Club)
