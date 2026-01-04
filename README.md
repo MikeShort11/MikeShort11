@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on crypography, game development, open source tools, and web development
 - 📫 How to reach me: michael.short094@gmail.com
-- 😄 Pronouns: They/Them
 - ⚡ Fun fact: Im a big Hockey fan (Go Utah ~~Hockey Club~~ Mammoth)
 
 <!---
